@@ -1,0 +1,76 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="sytle.css" />
+    </head>
+<body>
+
+    <div class="container">
+        <div class="box1 box"> <p> W </p></div>
+        <div class="box2 box"> <p> E </p></div>
+        <div class="box3 box"> <p> L</p></div>
+        <div class="box4 box"> <p> C</p></div>
+        <div class="box5 box"> <p> O </p></div>
+        <div class="box6 box"> <p> M</p></div>
+        <div class="box7 box"> <p> E </p></div>
+      </div>
+
+<h2>Slots</h2>
+<div class = "slots">
+    <img src="jackpot-slot.gif" alt="Computer man" id = "hp">
+<p>
+    A slot machine is a gambling game with spinning reels. Those reels have symbols on them, which land randomly after you place a bet and spin the reels. If these symbols line up, you win prizes based on which symbols fall on that “payline”.
+    
+    These games have been around since the late 19th century, but they’ve done nothing but grow in popularity since then. They were originally mechanical devices that relied on springs and gears to spin the reels. Modern slot machines use a computer program called a random number generator to determine which symbols land where.
+    
+    A random number generator is a computer program that cycles through thousands of numbers per second. When you hit the spin button, the program stops wherever it’s at. These numbers correspond to stops and symbols on the reels.
+    </p>
+</div>
+
+<h2>Black Jack</h2>
+
+<div class="square1"></div>
+<div class="square2"></div>
+
+<p> Black Jack is a card game that puts you aginst a dealer in a fast paced game of first to 21!</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2>Roulette</h2>
+
+<div class = "roulette">
+	<img src="rwheel.png" alt="Casino Roulette" class = "wheel" id = "hp">
+</div>
+
+	<p>
+	Roulette is a casino game named after the French word meaning little wheel which was likely developed from the Italian game Biribi. 
+	In the game, a player may choose to place a bet on a single number, various groupings of numbers, the color red or black, whether the number is odd or even, or if the numbers are high (19–36) or low (1–18).
+	To determine the winning number, a croupier spins a wheel in one direction, then spins a ball in the opposite direction around a tilted circular track running around the outer edge of the wheel. 
+	The ball eventually loses momentum, passes through an area of deflectors, and falls onto the wheel and into one of thirty-seven (single-zero, French or European style roulette) or thirty-eight (double-zero, American style roulette) or thirty-nine (triple-zero, "Sands Roulette") colored and numbered pockets on the wheel. 
+	The winnings are then paid to anyone who has placed a successful bet.
+	</p>
+
+</body>
+</html>
+
